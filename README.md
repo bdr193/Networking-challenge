@@ -12,6 +12,7 @@ User Journeys:
 * As a user I can upload my Profile picture. 
 * As a user I can view all Profiles on the platform (Profiles Index page).
 * As a user I can view another User’s profile page (Profile show page).
+* As a user I can search other profiles based on skilss, names or emails. (Use PG search).
 
 
 Tip:
