@@ -2,6 +2,8 @@
 Platform description: 
 A networking platform for Tel Aviv Alumni, Wagoners can sign up to the platform, build their Profile and view other alumni profiles.
 
+## Please Fork the challenge before you start.
+
 User Journeys:
 * As a user I can sign up to the networking platform.
 * As a user I need to fill my Profile.
@@ -10,7 +12,7 @@ User Journeys:
 * As a user I can upload my Profile picture. 
 * As a user I can view all Profiles on the platform (Profiles Index page).
 * As a user I can view another User’s profile page (Profile show page).
-* 
+
 
 Tip:
 You can use Mr Cocktail instructions and tips, the platforms are very similar.
@@ -36,7 +38,7 @@ Go to  [db.lewagon.com](http://db.lewagon.com/)  and draw the schema. The tables
 * You can’t delete a Skill if it used by at least one Profile.
 * When you delete a profile (Make sure not to delete associated Skills)
 
-## use good seeds.
+### use good seeds.
 
 
 ### Routing, Controller, Views 
